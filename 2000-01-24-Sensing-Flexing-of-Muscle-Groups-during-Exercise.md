@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Sensing Flexing of Muscle Groups during Exercise
