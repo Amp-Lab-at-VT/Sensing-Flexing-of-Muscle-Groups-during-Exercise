@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Syed Rumman
-Daniel Nguyen
+author: Syed Rumman, Daniel Nguyen
 show_sidebar: false
 ---
 
