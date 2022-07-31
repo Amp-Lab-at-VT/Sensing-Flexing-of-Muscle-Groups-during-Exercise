@@ -4,7 +4,7 @@ title: Sensing Flexing of Muscle Groups during Exercise
 description: This project aims to detect the same muscle groups on the left and right side of the body, when they contract and flex.
 date: 2000-01-24 09:00:00
 hero_image: /web/img/Sensing-Flexing-of-Muscle-Groups-during-Exercise/Hero.png
-image: /web/img/Sensing-Flexing-of-Muscle-Groups-during-Exercise/Hero.png
+# image /web/img/Sensing-Flexing-of-Muscle-Groups-during-Exercise/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
