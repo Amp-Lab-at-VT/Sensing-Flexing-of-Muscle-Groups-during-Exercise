@@ -21,7 +21,7 @@ Syed Rumman
 Daniel Nguyen
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Sensing-Flexing-of-Muscle-Groups-during-Exercise"" >Sensing-Flexing-of-Muscle-Groups-during-Exercise</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Sensing-Flexing-of-Muscle-Groups-during-Exercise" >Sensing-Flexing-of-Muscle-Groups-during-Exercise</a>
 
 ## Photo
 
